@@ -88,6 +88,12 @@ Future Enhancements
 Implement transfer learning to improve model accuracy.
 Expand the dataset to include more diverse image samples.
 Improve the web interface with more functionalities.
+Diagram
+![image](https://github.com/user-attachments/assets/93fe5e62-7491-4a10-a582-4a9312757124)
+
+Tumors types:
+![image](https://github.com/user-attachments/assets/40e45a71-a0e8-467e-b815-66b761f3bc0d)
+
 Screenshot:
 ![Screenshot 2024-05-07 141513](https://github.com/user-attachments/assets/74ab952d-aea3-46bd-ba71-1abb29a96d9b)
 
